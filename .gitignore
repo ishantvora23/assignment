@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+*.egg-info/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Media files
+media/
+
+# Static files
+static/
+
+# Environment variables
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+temp/
+
+# Ignore any other files you don't want to include
